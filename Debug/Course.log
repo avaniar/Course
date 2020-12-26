@@ -1,0 +1,11 @@
+﻿  Header.cpp
+C:\Users\иван\source\repos\Course\Header.cpp(61,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(465,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(526,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(528,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(533,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(548,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(563,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(578,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(593,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Course.vcxproj -> C:\Users\иван\source\repos\Course\Debug\Course.exe

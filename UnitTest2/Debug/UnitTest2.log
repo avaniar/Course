@@ -1,0 +1,12 @@
+﻿  UnitTest2.cpp
+C:\Users\иван\source\repos\Course\Header.cpp(59,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(465,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(526,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(528,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(533,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(548,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(563,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(578,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\иван\source\repos\Course\Header.cpp(593,22): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\иван\source\repos\Course\Debug\UnitTest2.lib и объект C:\Users\иван\source\repos\Course\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\иван\source\repos\Course\Debug\UnitTest2.dll
