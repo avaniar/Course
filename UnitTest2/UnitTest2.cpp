@@ -84,5 +84,27 @@ namespace UnitTest2
 			infi->Translationprefix(prefix);
 			Assert::IsFalse(prefix.count(answer));
 		}
+		TEST_METHOD(Correct_count)
+		{
+			infix prefix;
+			double answer;
+			double answer2;
+			infi->transfer("(sqrt(25)^5)/(55*log(100)*5^cos(60))");
+			infi->Translationprefix(prefix);
+			answer2 = ((pow(sqrt(25),5)) /(55 * log10(100) * pow(5,cos(60*PI/180))));
+			prefix.count(answer);
+			Assert::AreEqual(answer,answer2);
+		}
+		TEST_METHOD(Correct_count2)
+		{
+			infix prefix;
+			double answer;
+			double answer2;
+			infi->transfer("sqrt(log(259*cos(69))/ctg(-8*ln(sin(59))))");
+			infi->Translationprefix(prefix);
+			answer2 = sqrt(log10(259 * cos(69 * PI / 180)) / (1 / tan((-8 * log(sin(59 * PI / 180)) * PI / 180))));
+			prefix.count(answer);
+			Assert::AreEqual(answer, answer2);
+		}
 	};
 }
